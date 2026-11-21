@@ -1,8 +1,8 @@
-import Aurora from './components/Aurora.jsx';
-import FuzzyText from './components/FuzzyText.jsx';
-import Particles from './components/Particles.jsx';
-import ShinyText from './components/ShinyText.jsx';
-import { usePrefersReducedMotion } from './hooks/usePrefersReducedMotion.js';
+import Aurora from './Aurora.jsx';
+import FuzzyText from './FuzzyText.jsx';
+import Particles from './Particles.jsx';
+import ShinyText from './ShinyText.jsx';
+import { usePrefersReducedMotion } from './usePrefersReducedMotion.js';
 
 const COMPANY_NAME = 'Freq IT Solutions';
 const COMPANY_URL = 'https://freqitsolutions.net';
