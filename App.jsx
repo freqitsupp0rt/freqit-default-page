@@ -4,7 +4,7 @@ import Particles from './Particles.jsx';
 import ShinyText from './ShinyText.jsx';
 import { usePrefersReducedMotion } from './usePrefersReducedMotion.js';
 
-const COMPANY_NAME = 'Freq IT Solutions';
+const COMPANY_NAME = 'FREQ IT SOLUTIONS';
 const COMPANY_URL = 'https://freqitsolutions.net';
 
 export default function App() {
