@@ -40,8 +40,8 @@ body {
   inset: 0;
   z-index: -2;
   overflow: hidden;
-  filter: blur(80px) saturate(140%);
-  opacity: 0.55;
+  filter: blur(90px);
+  opacity: 0.18;
 }
 
 .aurora__blob {
@@ -60,7 +60,7 @@ body {
 }
 
 .aurora__blob--violet {
-  background: #7c3aed;
+  background: #1e293b;
   bottom: -20vmax;
   right: -10vmax;
   animation-duration: 22s;
@@ -68,7 +68,7 @@ body {
 }
 
 .aurora__blob--cyan {
-  background: #0ea5e9;
+  background: #334155;
   top: 30%;
   left: 40%;
   width: 30vmax;
