@@ -14,7 +14,7 @@ export default function App() {
   return (
     <main className="page">
       <Aurora />
-      <Particles paused={reducedMotion} />
+       <Particles rgb="148, 163, 184" paused={reducedMotion} />
 
       <section className="content">
         <p className="badge reveal" style={{ '--delay': '0ms' }}>
